@@ -1,0 +1,97 @@
+body {
+	border-top: 5px solid #000000;
+	border-bottom: 5px solid #000000;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.container {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.avatar {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.bio {
+	margin-bottom: 30px;
+}
+
+.social {
+	margin-top: 30px;
+}
+
+.title {
+	font-family: Helvetica, sans serif;
+	font-weight: bold;
+	font-size: 20px;
+	font-style: italic;
+}
+
+.company {
+	font-family: Helvetica, sans serif;
+	font-size: 18px;
+}
+
+.dates {
+	font-family: Helvetica, sans serif;
+	font-size: 14px;
+}
+
+.portfolioItem {
+	margin-bottom: 50px;
+}
+
+.educationItem {
+	margin-bottom: 15px;
+}
+
+h1 {
+	font-family: Helvetica, sans serif;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+h2 {
+	font-family: Helvetica, sans serif;
+	font-weight: bold;
+	font-size: 28px;
+	margin-top: 45px;
+}
+
+h3 {
+	font-family: Helvetica, sans serif;
+	font-weight: bold;
+	letter-spacing: 3px;
+	font-size: 20px;
+}
+
+nav {
+	font-family: Helvetica, sans serif;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+a {
+	font-family: Helvetica, sans serif;
+	color: #000000;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+p {
+	font-size: 18px;
+	line-height: 24px;
+}
+
+img {
+	padding: 5px;
+	border: 1px solid #000000;
+}
